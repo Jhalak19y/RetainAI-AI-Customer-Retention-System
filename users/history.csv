@@ -1,0 +1,3 @@
+username,tenure,monthly_charges,contract,risk_score,prediction
+admin,12,70.0,Month-to-month,28.0,Likely to Stay
+admin,34,70.0,Two year,16.0,Likely to Stay
